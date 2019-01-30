@@ -1,0 +1,74 @@
+.navbar
+{
+	color:yellow;
+font-size: 1.5em;
+}
+body
+{background:#f0ff00;
+font-family: 'Play', sans-serif; }
+
+.carousel-inner{
+  width:100%;
+  max-height: 300px ;
+}
+#myCarousel
+{width: 90%}
+.dropbtn {
+    background: black;
+    color: yellow;
+    border: none;   
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f0ff00;
+    min-width: 80px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+#paras{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 1.3em;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#contact{
+	background: black;
+	width:32.5%;
+	color: white;
+
+}
+.note
+{margin-left:5%; 
+}
+.img_contact{
+	width:12em; 
+	height:10em;
+
+}
