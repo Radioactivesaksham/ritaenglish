@@ -6,7 +6,3 @@
 4. Change file permissions (make website code public)<br> 
 Making a file public. Click<a href='https://cloud.google.com/storage/docs/access-control/making-data-public#buckets'> here </a><br>
 5. Check live website <a href='https//www.storage.googleapis.com/ritaacademy/index.html'>here.</a>
-4. Change file permissions. (make website code public)
-Make files public. Click<a href='https://cloud.google.com/storage/docs/access-control/making-data-public#buckets'> here</a> to know how to make file public.
-
-
